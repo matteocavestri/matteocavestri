@@ -32,8 +32,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,neovim,github,tailwind,git,r,linux,prometheus,grafana,raspberrypi" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,c,java,nextjs,matlab,go,arduino,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,github,git,linux,prometheus,grafana,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,python,javascript,typescript,c,java,nextjs,nodejs,matlab,r,go,arduino,mysql,postgresql" /><br>
 </div>
 
 <br/>
