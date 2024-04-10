@@ -33,7 +33,8 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=neovim,vscode,github,git,linux,prometheus,grafana,raspberrypi" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,python,javascript,typescript,c,java,nextjs,nodejs,matlab,r,go,arduino,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,matlab,r,go,arduino,mysql,postgresql" /><br>
 </div>
 
 <br/>
