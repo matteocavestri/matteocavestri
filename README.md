@@ -20,7 +20,7 @@
  
 <div align="center"> 
   <a href="https://matteo.cavestri.net">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/matteo-ludovico-cavestri-197083182/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -32,9 +32,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=neovim,vscode,github,git,linux,prometheus,grafana,raspberrypi" />
-    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,matlab,r,go,arduino,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=neovim,vscode,github,git,linux,prometheus,grafana,raspberrypi,kubernetes,docker" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,nextjs,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,bash,java,matlab,r,go,arduino,mysql,postgresql" /><br>
 </div>
 
 <br/>
