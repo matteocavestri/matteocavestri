@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **hpc distributed computing**
+ 🔭 I’m currently working on **HPC distributed computing**
 
 ⚙️ I'm currently studying **Mechanical Engineering**
 
