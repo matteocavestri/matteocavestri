@@ -52,13 +52,13 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div style="display: flex; justify-content: center; align-items: flex-start;">
-  <div style="margin-right: 20px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1;">
     <a href="https://app.daily.dev/matteocavestri">
       <img src="https://api.daily.dev/devcards/v2/cF0Wl0NCU2D9s51ToriOu.png?r=ht3" width="356" alt="Matteo Cavestri's Dev Card"/>
     </a>
   </div>
-  <div style="display: flex; flex-direction: column; justify-content: space-between;">
+  <div style="flex: 1; display: flex; flex-direction: column; align-items: flex-end;">
     <img src="https://streak-stats.demolab.com/?user=matteocavestri&count_private=true&theme=catppuccin_mocha&border_radius=10" alt="streak stats" width="325" style="margin-bottom: 20px;"/>
     <img src="https://github-readme-stats.vercel.app/api?username=matteocavestri&count_private=true&show_icons=true&theme=catppuccin_mocha&border_radius=10" alt="readme stats" width="325" style="margin-bottom: 20px;"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteocavestri&hide=HTML&langs_count=8&layout=compact&theme=catppuccin_mocha&border_radius=10" alt="top langs" width="325"/>
