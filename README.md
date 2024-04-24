@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **my dotfiles**
+ 🔭 I’m currently working on **hpc distributed computing**
 
 ⚙️ I'm currently studying **Mechanical Engineering**
 
@@ -39,6 +39,10 @@
 
 <br/>
 <hr/>
+
+<a href="https://app.daily.dev/matteocavestri"><img src="https://api.daily.dev/devcards/v2/cF0Wl0NCU2D9s51ToriOu.png?r=ht3" width="356" alt="Matteo Cavestri's Dev Card"/></a>
+
+ <hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
