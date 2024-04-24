@@ -40,9 +40,12 @@
 <br/>
 <hr/>
 
-<a href="https://app.daily.dev/matteocavestri"><img src="https://api.daily.dev/devcards/v2/cF0Wl0NCU2D9s51ToriOu.png?r=ht3" width="356" alt="Matteo Cavestri's Dev Card"/></a>
-
- <hr/>
+<div align="center">
+    <a href="https://app.daily.dev/matteocavestri">
+        <img src="https://api.daily.dev/devcards/v2/cF0Wl0NCU2D9s51ToriOu.png?r=ht3" width="356" alt="Matteo Cavestri's Dev Card"/>
+    </a>
+</div>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
