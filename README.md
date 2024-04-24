@@ -55,7 +55,7 @@
 <div align="center" style="display: flex; justify-content: space-around; align-items: flex-start;">
   <div style="flex: 1;">
     <a href="https://app.daily.dev/matteocavestri">
-      <img src="https://api.daily.dev/devcards/v2/cF0Wl0NCU2D9s51ToriOu.png?r=ht3" width="356" alt="Matteo Cavestri's Dev Card"/>
+      <img src="https://api.daily.dev/devcards/v2/cF0Wl0NCU2D9s51ToriOu.png?r=ht3&type=wide" width="652" alt="Matteo Cavestri's Dev Card"/>
     </a>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between;">
