@@ -14,7 +14,7 @@
 
 ⚙️ I'm currently studying **Mechanical Engineering**
 
-🌱 I’m currently learning **Rust, NodeJS, React**
+🌱 I’m currently learning **Golang, Haskell, Scala**
 
  </div>
  
@@ -53,11 +53,6 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center" style="display: flex; justify-content: space-around; align-items: flex-start;">
-  <div style="flex: 1;">
-    <a href="https://app.daily.dev/matteocavestri">
-      <img src="https://api.daily.dev/devcards/v2/cF0Wl0NCU2D9s51ToriOu.png?r=ht3&type=wide" width="652" alt="Matteo Cavestri's Dev Card"/>
-    </a>
-  </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matteocavestri&hide=HTML,css&langs_count=8&layout=compact&theme=catppuccin_mocha&border_radius=10" alt="top langs" width="350"/>
     <img src="https://github-readme-stats.vercel.app/api?username=matteocavestri&count_private=true&show_icons=true&theme=catppuccin_mocha&border_radius=10&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="readme stats" width="350"/>
